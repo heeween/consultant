@@ -13,17 +13,29 @@
 					<key>url</key>
 					<string>https://github.com/heeween/consultant/blob/master/O2OConsultant.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/heeween/consultant/blob/master/20150928033243556_easyicon_net_128.icns</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/heeween/consultant/blob/master/20150928033243556_easyicon_net_128.icns</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>title</key>
-				<string>车福管家.ipa</string>
-				<key>bundle-version</key>
-				<string>1.0.7</string>
-				<key>kind</key>
-				<string>software</string>
 				<key>bundle-identifier</key>
 				<string>com.autozi.O2OConsultant</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>O2OConsultant</string>
 			</dict>
 		</dict>
 	</array>

@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/heeween/consultant/blob/master/O2OConsultant.ipa</string>
+					<string>https://app.autozi.com/servlet/appdown.do?platformType=ios&amp;appType=ZChai-test&amp;version=1.1.7</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.autozi.O2OConsultant</string>
+				<string>com.qeegoo.b2bzchaimall</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
